@@ -1,3 +1,21 @@
+为什么读书好？
+=============
+
+读书可以知道不同的事物，不同事物的不同的性质，读书可以认知好。
+
+读书可以陶冶人的心情，形成道德的实践，读书可以行为好。
+
+读书可以造成人群，建立新的世界，读书可以社会好。
+
+Why reading is good
+====================
+
+Reading can know different things, different properties of different things; reading brings good for perceive;
+
+Reading can cultivate people's mood and form moral practice; reading brings good for action;
+
+Reading can create community, set up a new world; reading brings good for society;
+
 为什么要学习编程？
 =================
 
