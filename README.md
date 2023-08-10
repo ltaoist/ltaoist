@@ -1,3 +1,5 @@
+<video src="https://ltaoist.com/ltaoist/video/%E6%B2%A1%E6%9C%89%E7%88%B1%E5%B0%B1%E6%B2%A1%E6%9C%89%E6%95%99%E8%82%B2.mp4" width=180/>
+
 为什么读书好？
 =============
 
