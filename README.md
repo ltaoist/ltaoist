@@ -1,3 +1,27 @@
+信息技术应用的四个荣耀
+======================
+
+**1.荣耀地球家园。** 信息技术应用荣耀地球家园。我们有一个共同的家园，那就地球。信息技术应用为地球带来创造力，荣耀此共同的家园。
+
+**2.荣耀人类文明。** 人类文明包括经济文明、政治文明、造物文明、交往文明、生态文明等。经济文明指人得到知识与救助，解除痛苦、伤害、无助的状态，成为安康、健全、全面发展的人。政治文明指人摆脱暴政，构成机制，形成坚固的可持续的服务于个人利益和集团利益的治理。交往文明指人在社会关系中破除孤立、压迫、道德鸿沟，自由的人成为自由的人。生态文明指以人与自然、人与人、人与社会和谐共生。从区域的观点来看，人类文明包括各不同的立法-治理-资源共同体的文明。信息技术应用提高人类文明的要求，丰富人类文明的手段，信息技术应用荣耀人类文明。
+
+**3.荣耀自由软件运动。** 自由软件运动是保护参与者和保护获得者的双重规定。自由软件运动是促进城乡协调发展、实现人类可持续发展绿色发展的重要条件。信息技术应用证明了自由软件运动的大量的过程及产品具有极大的必要性、合理性、功能性、技术性，扩大了自由软件运动的影响范围，为自由软件运动的发展构成场景和作用面，荣耀自由软件运动。
+
+**4.荣耀共产主义。** 信息技术应用为机械化、机电化、智能化和生产科学化提供了连结的手段，使治理者与治理者连接，人与人连接，故事与故事连接，资源与资源连接，区域与区域连接，空间与空间连接，使得人类向公平的、廉洁的、自由的、高效率的共产主义社会进化，扩大共产主义的价值内涵与经济学剧本，荣耀共产主义。
+
+On The Four Glories of Information Technology Applications
+==========================================================
+
+**1. Glorify the Earth's home. ** Information technology applications glorify the Earth's home. We have a common home, the Earth. Information technology applications give creativity to the Earth and glorify this common home.
+
+**2. Glorify human civilization. ** Human civilization includes economic civilization, political civilization, creation civilization, communication civilization and ecological civilization. Economic civilization means that human beings get knowledges and helps, and detach from the pain, injury, and helpless states, and turn into well-being, sound, and fully developed. Political civilization means that people get rid of tyranny, constitute a mechanism, form a solid and sustainable governance that serves the interests of individuals and groups. Communication civilization refers to people breaking away from isolation, oppression, and priority gap in their social relations, and let free people be free people. Ecological civilization refers to the harmonious intergrowth for human and nature, human and human, and man and society. From a regional view, human civilization includes the civilizations of different legislative-governance-resource communities. Information technology applications improve the provision and enrich the means of human civilization, glorify human civilization.
+
+**3. Glorify the free software movement. ** The Free Software Movement is a dual determination for the protection of participants and the protection of getters. The free software movement is an important condition for promoting the coordinated development of urban and rural areas and realizing the green development of sustainable human development. Information technology applications prove the great necessity, rationality, functionality, and technicality of a large number of processes and products of the Free Software Movement, enlarges the range of influence of the Free Software Movement, and constitutes the scene and the influence panel for the development of the Free Software Movement, and glorify the Free Software Movement.
+
+**4. glorify communism. ** Information technology applications provide the means to link mechanization, electromechanics, intelligence, and the scientificization of production, connecting governors to governors, people to people, stories to stories, resources to resources, regions to regions, and spaces to spaces, enabling the evolution of humanity towards a fair, clean, free, and efficient communist society, extending the value intension and the economic script of communism, glorify communism.
+
+----
+
 [<img src="video/cover-没有爱就没有教育.png">](https://www.bilibili.com/video/BV13u4y1z7ad/)
 
 
