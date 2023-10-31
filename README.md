@@ -12,7 +12,7 @@
 On The Four Glories of Information Technology Applications
 ==========================================================
 
-**1. Glorify the Earth's home.** Information technology applications glorify the Earth's home. We have a common home, the Earth. Information technology applications give creativity to the Earth and glorify this common home.
+**1. Glorify the Earth home.** Information technology applications glorify the Earth's home. We have a common home, the Earth. Information technology applications give creativity to the Earth and glorify this common home.
 
 **2. Glorify human civilization.** Human civilization includes economic civilization, political civilization, creation civilization, communication civilization and ecological civilization. Economic civilization means that human beings get knowledges and helps, and detach from the pain, injury, and helpless states, and turn into well-being, sound, and fully developed. Political civilization means that people get rid of tyranny, constitute a mechanism, form a solid and sustainable governance that serves the interests of individuals and groups. Creation civilization refers to the scientific and societal of the creatures by human. Communication civilization refers to people breaking away from isolation, oppression, and priority gap in their social relations, and let free people be free people. Ecological civilization refers to the harmonious intergrowth for human and nature, human and human, human and society. From a regional view, human civilization includes the civilizations of different legislative-governance-resource communities. Information technology applications improve the provision of human civilization and enrich the means of human civilization, glorify human civilization.
 
