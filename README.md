@@ -1,3 +1,33 @@
+计算机指令的四种类型
+======================
+
+　　cpu其实能做很多事，虽然在电气的层面主要无非是通或者不通，通就是1不通就是0，但是在界面上而且在实际使用中已经几乎把理智可以考虑的全部都考虑了：
+  
+　　① **算数指令**，算数指令的过程，这有整数又有范围可以很大的浮点数，这就可以涵盖从小学计算到最大公约数再到微积分直接算出太空；
+  
+　　② **逻辑指令**，逻辑指令的过程，这就搭载了从近代数学的集合论、数理逻辑等数学形式化的成果，可以卷入每行每业具有一种普遍的理性的力量；
+  
+　　③ **比较指令**，计算机也就可以感知量的差异，可以将量的差异的认知带入机械的过程，可以从大小、不等和相等等等的特征去响应不同的过程；
+  
+　　④ **协同控制指令**，计算机也就可以给其相连的设备和部件交互，甚至还可以呈现一定的控制自己的本体的效果。
+  
+　　我们似乎从未审慎地考虑什么是计算，却热情与各种计算的应用，而今天的计算已经到了一个触及人类全部的思想和习惯的程度，以电气计算机器体的方式嵌入了社会。
+
+On The Four Types of Computer Instructions
+==========================================
+
+The CPU can do a lot actually, even though at the electrical level it's all about being on or off -- 1 for on, 0 for off. But when you look at it from a user's perspective, it's practically designed to cover everything our minds can think of:
+
+1. **Arithmetic Instructions**: These handle both integers and floating-point numbers with a wide range. This means human can handle everything from basic arithmetic in primary school to finding the greatest common divisor, and even advanced calculus for space calculations.
+
+2. **Logical Instructions**: They incorporate the fruits of modern mathematics like set theory and mathematical logic. This gives computers a universal rational power that can be applied across all industries.
+
+3. **Comparison Instructions**: With these, computers can recognize differences in quantities. They can bring the understanding of quantitative differences into mechanical processes and respond differently based on whether something is larger, smaller, unequal, or equal.
+
+4. **Cooperative & Control Instructions**: These allow computers to interact with connected devices and components. They can even exhibit a certain level of self-control.
+
+We often don't think deeply about what computation really is, yet we're passionate about its applications. Today, computation has reached a point where it touches every aspect of human thought and habit, seamlessly integrated into society through electronic computing machines.
+
 为什么你应该领导一个开源软件？
 =============================
 
