@@ -28,3 +28,33 @@
 这个世界上曾经有过多少温柔而坚强的生命。我是不敢养猫的。喂完了这顿，我还不一定有下一顿给他。当这个世界在流浪的猫猫狗狗太多，不想自己太累了，最省事的还是不要与他们共情，不要操心他们的命运，这样自己也能过得好一些。可是，为什么生活是这样子的呢？为什么大观园忽然就没了呢？这些是不好想明白的吧。
 
 有的人为了成为强者，把玻璃心扔了。我觉得他还是很有趣的，我竟然有些喜欢这只小猫虚伪又骄傲的样子。只能到如此了，以后的生活我也不能为你做主，或许此生太苦，但我曾经担心过你。
+
+（Translated by [Tencent Yuanbao](https://yuanbao.tencent.com/)）
+
+In summer, a rainstorm swept through.
+
+Occasionally, one or two stray cats could be spotted around the compound. Among them was a scrawny one—whether it had always been this way, I couldn’t tell. It was said that these strays had once been housecats, but their owners had abandoned them for various reasons. Others claimed they were descendants of strays who’d roamed free.
+
+Its fur was white, and its eyes held a look that seemed unaccustomed to life on the streets. How had it come to this? Had it eaten that day? Where would it find its next meal? It looked weary. Perhaps it hadn’t been a stray for long. To survive as a stray, cats must learn to fend for themselves, which is why so many grow scruffy and wary, even aggressive. Not this one. It padded softly, as if still fearing a scolding from a long-lost owner. Once, it must have been proud—like Jia Baoyu in Dream of the Red Chamber, carefree yet burdened by youthful worries—until, in an instant, its roof became the entire sky of Yantai, its floor the expanse of the city, and Yantai itself its home. Now, it must learn to face the world alone, all at once.
+
+Why had this happened? Had it thought of something? Or was it simply wandering the compound? It often came to our office building, where few people lingered. When it meandered over, we’d hear its soft meows and know it had arrived. In the empty hallway, it would look at me, and I at it. It said nothing—perhaps it, too, had come to believe in lines like “Bodhi is originally without a tree”—and soon slipped away. Sometimes, it would leave with a delicate yowl, as if afraid to offend or to have erred.
+
+We’d cross paths again on my way back. The compound’s residents, I supposed, were kind enough not to take it in, but neither did they torment it. It was elusive: here one day, gone for days the next. How did strays find food to survive? Had its former owner treated it poorly? Now, fending for itself, it relied solely on wits to find sustenance and protect itself. But I’d read that without handouts, strays scrounge from trash cans.
+
+Sometimes, it struck a pretentious pose on the path—“I’m doing just fine; these humans don’t know me”—strutting through the compound as if parading.
+
+On my way back to the office, I saw it again. If its heart were made of glass, wouldn’t it be shattered by now? I bought cat food. “Come here,” I called. It seemed to understand, trotting a few steps behind. Whether it didn’t want to get too close, or I didn’t, or we both sensed the unspoken boundary—it stopped, and so did I.
+
+I called again. It looked at me; I looked at it. Then it inched closer. I paused, and it paused, looking dazed. “Come here,” I said. This dance continued until we’d covered nearly ten meters, finally reaching the building.
+
+At the entrance, it perked up, as if sensing my intent to take it upstairs. It often wandered up on its own, but now that I was leading, it balked. It sat elegantly, feigning disinterest. Yet I could see it was struggling. Cats are as prone to pretense as humans. With a dismissive flick of its head, it stared at the sky, treating me like an impetuous child.
+
+I worried it might vanish when I left. But if it clung to its pride, coaxing it upstairs would be no easy task. “Stay here,” I told it, hurrying up and down the stairs. It seemed slow to react, still waiting. There it sat, that same proud, indifferent look, unyielding to hardship. But its skinny legs betrayed it. I set down the food. It eyed it warily—hungry, yet hesitant, as if suspecting a trick. Did it actually dislike it? Or was it pleased, thinking its scheme had worked? It acted as if it had found a new owner.
+
+A new owner? Let’s see how that goes. It settled in, lying low, refusing to meet my gaze. Once, perhaps on the happiest day of its life, it had a script: sit, look indifferent, and humans would coo and beg it to eat. Wasn’t this the classic pet cat playbook?
+
+By the time I thought of this, I was already upstairs. If it had planned this farce, I’d been a poor actor. I’d assumed it was shy, too bashful to eat in front of me, so I’d left it to its meal.
+
+How many gentle, resilient souls have graced this world? I can’t bring myself to keep a cat. After feeding it today, there’s no guarantee I’ll be here tomorrow. With so many strays wandering, it’s easier not to care—to shield my heart, to live unburdened. But why does life have to be this way? Why did the Grand View Garden vanish so suddenly? Some questions are better left unanswered.
+
+Some chase strength by casting aside their fragile hearts. I find this little cat oddly endearing—the way it feigns pride, the way it’s both vulnerable and vain. For now, that’s all I can offer. I can’t decide your fate, but I’ve cared for you. Perhaps life is bitter, but at least I’ve worried about you.
